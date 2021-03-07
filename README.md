@@ -1,11 +1,7 @@
 # Modern-Animated-Portfolio-Website
 
-This repository contains Modern Website Design.
+This repository contains Modern Website Design; Designed on HTML, CSS, JavaScript.
 
-Designed on HTML, CSS, JavaScript & GSAP.
+You can click the link to see it in your browser; (Note: Not a Mobile Responsive):
 
-You can click the link to see it in your browser:
-
-https://thisisanalyst.github.io/
-
-(Note: It is Not Mobile Responsive)
+https://thisisanalyst.github.io/Modern-Animated-Portfolio-Website/
